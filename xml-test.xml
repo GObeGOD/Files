@@ -5,14 +5,14 @@
     <subtitle>Canada News Centre</subtitle>
     <updated>2020-05-13T16:36:36-04:00</updated>
     <entry>
-        <title>Testing push notifications for RSS 2</title>
+        <title>DEMO push notification</title>
         <id>https://www.canada.ca/en/department-finance/news/2020/05/government-provides-tariff-relief-to-importers-of-certain-medical-goods.html</id>
         <summary type="html">Today, Finance Minister, Bill Morneau, announced action to further ensure Canadians have access to personal protective equipment (PPE) and other necessary medical equipment.</summary>
         <author>
             <name>Department of Finance Canada</name>
         </author>
         <category term="news releases"/>
-        <updated>2020-11-23T16:24:14-02:00</updated>
+        <updated>2020-05-27T16:24:14-02:00</updated>
         <link href="https://www.canada.ca/en/department-finance/news/2020/05/government-provides-tariff-relief-to-importers-of-certain-medical-goods.html"/>
     </entry>
     <entry>
